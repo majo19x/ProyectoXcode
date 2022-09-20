@@ -1,5 +1,5 @@
 # ProyectoXcode //Camacho Maria
-**Descripcion de pasos para practica de Xcode en SO de MacOs
+# Descripcion de pasos para practica de Xcode en SO de MacOs
 
 -Crear maquina virtual MacOs en VirtualBox
 1. Abrir VirtualBox y seleccionar "Nueva" para crear una máquina virtual
